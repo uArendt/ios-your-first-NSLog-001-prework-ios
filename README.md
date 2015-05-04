@@ -22,44 +22,32 @@ if you can make a new file or directory using terminal.
 
 Forking is the process of making a personal remote copy of the Learn lab.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png"
-alt="Git Workflow 1">
+![Git Workflow 1](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-1.png)
 
 To get started, in Learn click the title of the lab to go to Flatiron School's
 copy of the lab on Github.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0.jpg"
-alt="Ironboard Labs Step 0">
+![Ironboard Labs Step 0](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0.jpg)
 
 Next on Flatiron's Github page for the lab click the Fork button.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1.jpg"
-alt="Ironboard Labs Step 1">
+![Ironboard Labs Step 1](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1.jpg)
 
 Then select your personal Github account as the location to fork to.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1b.jpg"
-alt="Ironboard Labs Step 1B">
+![Ironboard Labs Step 1B](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-1b.jpg)
 
 ## 2. Clone Your Fork
 
 Cloning is the process of making a local copy of the lab from your personal
 remote on Github. 
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png"
-alt="Git Workflow 2">
+![Ironboard Labs Step 2](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png)
 
 To clone, click the copy button next to the Clone URL to copy it to your
 clipboard.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2.jpg"
-alt="Ironboard Labs Step 2">
+![Ironboard Labs Step 2](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2.jpg)
 
 Next, in Terminal navigate to the parent directory where you would like to
 place this lab. Then type:  `git clone <paste the clone URL here>`  
@@ -69,15 +57,11 @@ Note: You should replace the &lt;paste the clone URL here&gt; including the
 pressing command+v on mac or ctrl+v on windows. Example: git clone
 git@github.com:jongrover/first-lab-000.git
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2b.png"
-alt="Ironboard Labs Step 2b">
+![Ironboard Labs Step 2b](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2b.png)
 
 ## 3. Solving this Lab
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-3.png"
-alt="Git Workflow 3">
+![Git Workflow 3](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-3.png)
 
 Now that you have forked and cloned your fork, your goal is simple. Just create
 a new file within this lab.
@@ -104,9 +88,7 @@ Podfile.lock      README.md     my-first-lab.xcodeproj    my-first-labTests
 
 ## 4. Push Your Code to Github
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-4.png"
-alt="Git Workflow 4">
+![Git Workflow 4](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-4.png)
 
 After adding and commiting your most recent work next we want to push our work
 up to our personal Github remote (origin). 
@@ -126,53 +108,38 @@ maintainer of the Learn lab (upstream remote) to consider pulling (fetching &
 merging) in your work from your personal remote copy (origin remote). This
 enables your instructor to see your solution for the lab.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-5.png"
-alt="Git Workflow 5">
+
+![Git Workflow 5](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-5.png)
 
 To do so, in Learn click the title of the lab to go to Flatiron Schools copy.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg"
-alt="Ironboard Labs Step 0b">
+![Ironboard Labs Step 0b](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg)
 
 This will take you back to the Learn copy you originally forked from. Then
 click the Pull Requests link from the right sidebar.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4.jpg"
-alt="Ironboard Labs Step 4">
+![Ironboard Labs Step 4](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4.jpg)
 
 Next, click the New pull request button.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4b.jpg"
-alt="Ironboard Labs Step 4b">
+![Ironboard Labs Step 4b](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4b.jpg)
 
 Then click the compare across forks link.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4c.jpg"
-alt="Ironboard Labs Step 4c">
+![Ironboard Labs Step 4c](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4c.jpg)
 
 Then click the drop down menu for the head fork and select yourself from the
 list.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4d.jpg"
-alt="Ironboard Labs Step 4d">
+![Ironboard Labs Step 4d](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4d.jpg)
 
 After reviewing the comparison code and making sure it shows your solution,
 click the Create pull request button.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4e.jpg"
-alt="Ironboard Labs Step 4e">
+![Ironboard Labs Step 4e](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4e.jpg)
 
 Then click Create pull request button again.
 
-<img width="100%" height="auto"
-src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg"
-alt="Ironboard Labs Step 4f">
+![Ironboard Labs Step 4f](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg)
 
 That's it your done! Now go back to Learn and you should be able to proceed.
