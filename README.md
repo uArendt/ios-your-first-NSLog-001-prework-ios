@@ -44,7 +44,7 @@ remote on Github.
 
 ![Ironboard Labs Step 2](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-2.png)
 
-To clone, click the copy button next to the Clone URL to copy it to your
+To clone, make sure you've first clicked on the SSH link, then click the copy button next to the Clone URL to copy it to your
 clipboard.
 
 ![Ironboard Labs Step 2](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-2.jpg)
