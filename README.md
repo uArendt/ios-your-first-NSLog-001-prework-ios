@@ -105,41 +105,24 @@ Go to github and confirm the push.
 
 Submitting a pull request can be described as the process of asking the
 maintainer of the Learn lab (upstream remote) to consider pulling (fetching &
-merging) in your work from your personal remote copy (origin remote). This
-enables your instructor to see your solution for the lab.
+merging) in your work from your personal remote copy (origin remote). 
 
+<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-5.png" alt="Git Workflow 5">
 
-![Git Workflow 5](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-5.png)
+To do so, in Learn click the title of the lab to go to your forked copy on Github.
 
-To do so, in Learn click the title of the lab to go to Flatiron Schools copy.
+<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg" alt="Ironboard Labs Step 0b">
 
-![Ironboard Labs Step 0b](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-0b.jpg)
+Then click the green Pull Request button.
 
-This will take you back to the Learn copy you originally forked from. Then
-click the Pull Requests link from the right sidebar.
+<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4.jpg" alt="Ironboard Labs Step 4">
 
-![Ironboard Labs Step 4](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4.jpg)
+After reviewing the comparison code and making sure it shows your solution, click the Create pull request button.
 
-Next, click the New pull request button.
-
-![Ironboard Labs Step 4b](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4b.jpg)
-
-Then click the compare across forks link.
-
-![Ironboard Labs Step 4c](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4c.jpg)
-
-Then click the drop down menu for the head fork and select yourself from the
-list.
-
-![Ironboard Labs Step 4d](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4d.jpg)
-
-After reviewing the comparison code and making sure it shows your solution,
-click the Create pull request button.
-
-![Ironboard Labs Step 4e](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4e.jpg)
+<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4e.jpg" alt="Ironboard Labs Step 4e">
 
 Then click Create pull request button again.
 
-![Ironboard Labs Step 4f](http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg)
+<img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg" alt="Ironboard Labs Step 4f">
 
-That's it your done! Now go back to Learn and you should be able to proceed.
+That's it, you're done! Now go back to Learn and you should be able to proceed to the Next Lesson.
