@@ -1,7 +1,4 @@
----
-tags: git, github, bash, command line, learn.co, tutorial
-languages: bash, objc
----
+
 
 # Your First Lab
 
