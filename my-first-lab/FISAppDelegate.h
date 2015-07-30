@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  FISAppDelegate.h
 //  my-first-lab
 //
 //  Created by Joe Burgess on 5/4/15.
@@ -8,11 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+@interface FISAppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
 // ///////////////////
-// Go to AppDelegate.m
+// Go to FISAppDelegate.m
 // ////////////////////
 
 - (NSString *) didItWork;

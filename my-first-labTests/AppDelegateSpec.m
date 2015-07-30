@@ -9,17 +9,17 @@
 #import "Specta.h"
 #import "Expecta.h"
 #define EXP_SHORTHAND
-#import "AppDelegate.h"
+#import "FISAppDelegate.h"
 
 
-SpecBegin(AppDelegate)
+SpecBegin(FISAppDelegate)
 
-describe(@"AppDelegate", ^{
+describe(@"FISAppDelegate", ^{
     
     it(@"should return YES", ^{
-        AppDelegate *myDelegate = (AppDelegate*)[UIApplication sharedApplication].delegate;
+        FISAppDelegate *appDelegate = (FISAppDelegate*)[UIApplication sharedApplication].delegate;
 
-        expect([myDelegate didItWork]).to.equal(@"YES");
+        expect([appDelegate didItWork]).to.equal(@"YES");
     });
     
 });

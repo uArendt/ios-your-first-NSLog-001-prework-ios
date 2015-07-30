@@ -74,7 +74,7 @@ Podfile.lock      README.md     my-first-lab.xcodeproj    my-first-labTests
 ```
 
   1. Open the `my-first-lab.xcworkspace` XCode project by typing `open my-first-lab.xcworkspace`
-  2. Navigate to the `AppDelegate.m` file
+  2. Navigate to the `FISAppDelegate.m` file
   3. Remove the `//` in front of line 25 and add `//` in front of line 24.
   4. Run the test by going to Product -> Test at the top menu bar.
   5. You should get a test succeeded notification, and the local build lights on 

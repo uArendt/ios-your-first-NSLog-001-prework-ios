@@ -1,18 +1,18 @@
 //
-//  AppDelegate.m
+//  FISAppDelegate.m
 //  my-first-lab
 //
 //  Created by Joe Burgess on 5/4/15.
 //  Copyright (c) 2015 Joe Burgess. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "FISAppDelegate.h"
 
-@interface AppDelegate ()
+@interface FISAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation FISAppDelegate
 
 // //////////////////////////////////////////////////////
 // Add two slashes in front of line 24.
