@@ -12,7 +12,7 @@
 		D838FFB41AF823DD0003B4E2 /* FISAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D838FFB31AF823DD0003B4E2 /* FISAppDelegate.m */; };
 		D838FFBC1AF823DD0003B4E2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D838FFBB1AF823DD0003B4E2 /* Images.xcassets */; };
 		D838FFBF1AF823DD0003B4E2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D838FFBD1AF823DD0003B4E2 /* LaunchScreen.xib */; };
-		D838FFD51AF825180003B4E2 /* AppDelegateSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = D838FFD41AF825180003B4E2 /* AppDelegateSpec.m */; };
+		D838FFD51AF825180003B4E2 /* FISAppDelegateSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = D838FFD41AF825180003B4E2 /* FISAppDelegateSpec.m */; };
 		D838FFD71AF825FC0003B4E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D838FFD61AF825FC0003B4E2 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
@@ -39,7 +39,7 @@
 		D838FFBE1AF823DD0003B4E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		D838FFC41AF823DE0003B4E2 /* my-first-labTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "my-first-labTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D838FFC91AF823DE0003B4E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D838FFD41AF825180003B4E2 /* AppDelegateSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegateSpec.m; sourceTree = "<group>"; };
+		D838FFD41AF825180003B4E2 /* FISAppDelegateSpec.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FISAppDelegateSpec.m; sourceTree = "<group>"; };
 		D838FFD61AF825FC0003B4E2 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -125,7 +125,7 @@
 			isa = PBXGroup;
 			children = (
 				D838FFC81AF823DE0003B4E2 /* Supporting Files */,
-				D838FFD41AF825180003B4E2 /* AppDelegateSpec.m */,
+				D838FFD41AF825180003B4E2 /* FISAppDelegateSpec.m */,
 			);
 			path = "my-first-labTests";
 			sourceTree = "<group>";
@@ -282,7 +282,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D838FFD51AF825180003B4E2 /* AppDelegateSpec.m in Sources */,
+				D838FFD51AF825180003B4E2 /* FISAppDelegateSpec.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
