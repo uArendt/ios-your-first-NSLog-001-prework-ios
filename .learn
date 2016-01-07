@@ -1,6 +1,19 @@
 tags:
+<<<<<<< HEAD
   - intro
   - beginner
   - basics
 languages:
   - objc
+=======
+  - git
+  - github
+  - bash
+  - command line
+  - learn
+  - tutorial
+languages:
+  - bash
+  - objc
+
+>>>>>>> d5699153f6e720ee886d549d90627397962342d1
